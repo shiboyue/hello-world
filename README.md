@@ -1,3 +1,3 @@
-# hello-world
+# Hello World : My first program
 hello world
-This is the first github project of me!!!
+This is my first GitHub program
